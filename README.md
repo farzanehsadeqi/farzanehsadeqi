@@ -23,9 +23,13 @@ I am an economist and data analyst, combining investment evaluation and feasibil
 
 ## Selected Publications
 
-- Aghajani, H., **Sadeghi, F.**, et all. (2026). *Specialized Prioritization of Industrial Activities with a Land Planning Approach (Case Study: Khorasan Razavi Province)*. Journal of Geography and Regional Development, 23(4), 121–164.
-- **Sadeghi, F.**, & Rofougar, S. K. (2018). *The Money Demand Functions in Islamic Economy: New Evidence from Iran — ARDL Approach*. Journal of Islamic Monetary Economics and Finance, 4(2), 205–222.
-- Erfani, A., **Sadeghi, F.**, & Samiei, N. (2015). *Selection of Optimal Monetary Rule: What Type of Inflation Targeting?* Journal of Economic Research, 50(2), 389–414.
+- [The Money Demand Functions in Islamic Economy: New Evidence from Iran — ARDL Approach](https://doi.org/10.21098/jimf.v4i2.922)  
+  ARDL bounds-testing cointegration on Iranian annual data (1978–2008) with CUSUM/CUSUMSQ stability tests (Eviews).
+- [Specialized Prioritization of Industrial Activities with a Land Planning Approach](https://doi.org/10.22067/jgrd.2025.88425.1438)  
+  Input-output linkage analysis, product-space approach and fuzzy TOPSIS ranking of counties based on expert survey data (Python).
+- [Selection of Optimal Monetary Rule: What Type of Inflation Targeting?](https://doi.org/10.22059/jte.2015.55087)  
+  GMM estimation of a New Keynesian Phillips curve and demand equations, then optimal-control comparison of inflation-targeting rules (Eviews).
+
 
 📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=sWv47wUAAAAJ&hl=en)
 
