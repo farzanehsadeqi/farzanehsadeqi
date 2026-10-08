@@ -23,8 +23,8 @@ I am an economist and data analyst, combining investment evaluation and feasibil
 
 ## Selected Publications
 
-- **Sadeghi, F.**, & Rofougar, S. K. (2018). *The Money Demand Functions in Islamic Economy: New Evidence from Iran — ARDL Approach*. Journal of Islamic Monetary Economics and Finance, 4(2), 205–222.
 - Aghajani, H., **Sadeghi, F.**, et all. (2026). *Specialized Prioritization of Industrial Activities with a Land Planning Approach (Case Study: Khorasan Razavi Province)*. Journal of Geography and Regional Development, 23(4), 121–164.
+- **Sadeghi, F.**, & Rofougar, S. K. (2018). *The Money Demand Functions in Islamic Economy: New Evidence from Iran — ARDL Approach*. Journal of Islamic Monetary Economics and Finance, 4(2), 205–222.
 - Erfani, A., **Sadeghi, F.**, & Samiei, N. (2015). *Selection of Optimal Monetary Rule: What Type of Inflation Targeting?* Journal of Economic Research, 50(2), 389–414.
 
 📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=sWv47wUAAAAJ&hl=en)
