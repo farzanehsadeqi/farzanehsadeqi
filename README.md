@@ -3,7 +3,7 @@
 🎓 MSc in Management, Economics and Data Science  
 📍 University of Klagenfurt, Austria | Erasmus+ at Bielefeld University, Germany
 
-I am an economist turned data scientist, combining investment evaluation and feasibility studies with optimization and data science to support decisions under uncertainty, with a particular focus on energy systems.
+I am an economist and data analyst, combining investment evaluation and feasibility studies with optimization and data science to support decisions under uncertainty, with a particular focus on energy systems.
 
 ![EViews](https://img.shields.io/badge/EViews-1F4E79?style=for-the-badge)
 ![Time Series](https://img.shields.io/badge/Time_Series-8A2BE2?style=for-the-badge)
