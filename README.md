@@ -13,13 +13,21 @@ I am an economist and data analyst, combining investment evaluation and feasibil
 ![COMFAR](https://img.shields.io/badge/COMFAR-B22222?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Stochastic_Optimization-2E8B57?style=for-the-badge)
 
-## MY Research Interests:
+## My Research Interests:
 
 - Data Pipelines for Economic Data
 - Time-Series Forecasting & Applied Econometrics
 - Stochastic Optimization & Decision-Making Under Uncertainty
 - Risk Analysis (VaR, CVaR) in Investment Appraisal
 - Energy Systems: Solar PV & Battery Storage
+
+
+## My Current Projects:
+
+- 📊 [Euro Area Macro Monitor: Automated ECB, Eurostat & FRED Pipeline](https://github.com/farzanehsadeqi/euro-area-macro-monitor)
+- ⚡ [Battery Sizing for a PV-and-Storage EV Charging Hub](https://github.com/farzanehsadeqi/pv-battery-hub-sizing)
+- 🏗️ [Prefab Crane-Crew Allocation Under Wind Risk](https://github.com/farzanehsadeqi/prefab-assembly-weather-risk)
+- 🎓 MSc Thesis: Risk-Aware Feasibility Appraisal of Solar PV + Battery Storage
 
 ## Selected Publications
 
@@ -30,14 +38,8 @@ I am an economist and data analyst, combining investment evaluation and feasibil
 - [Selection of Optimal Monetary Rule: What Type of Inflation Targeting?](https://doi.org/10.22059/jte.2015.55087)  
   GMM estimation of a New Keynesian Phillips curve and demand equations, then optimal-control comparison of inflation-targeting rules (Eviews).
 
-
 📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=sWv47wUAAAAJ&hl=en)
 
 
-## My Current Projects:
 
-- ⚡ [Battery Sizing for a PV-and-Storage EV Charging Hub](https://github.com/farzanehsadeqi/pv-battery-hub-sizing)
-- 🏗️ [Prefab Crane-Crew Allocation Under Wind Risk](https://github.com/farzanehsadeqi/prefab-assembly-weather-risk)
-- 📊 [Euro Area Macro Monitor: Automated ECB, Eurostat & FRED Pipeline](https://github.com/farzanehsadeqi/euro-area-macro-monitor)
-- 🎓 MSc Thesis: Risk-Aware Feasibility Appraisal of Solar PV + Battery Storage
 
