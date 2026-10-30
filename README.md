@@ -26,7 +26,7 @@ I am an economist and data analyst, combining investment evaluation and feasibil
 
 - 📊 [Euro Area Macro Monitor: Automated ECB, Eurostat & FRED Pipeline](https://github.com/farzanehsadeqi/euro-area-macro-monitor)
 - ⚡ [Battery Sizing for a PV-and-Storage EV Charging Hub](https://github.com/farzanehsadeqi/pv-battery-hub-sizing)
-- ☀️ [Germany Electricity Dashboard (2020–2025)](https://github.com/farzanehsadeqi/Germany_SolarPV_Power_Dashboard)
+- ☀️ [Germany SolarPV Power Dashboard (2020–2025)](https://github.com/farzanehsadeqi/Germany_SolarPV_Power_Dashboard)
 - 🏗️ [Prefab Crane-Crew Allocation Under Wind Risk](https://github.com/farzanehsadeqi/prefab-assembly-weather-risk)
 - 🎓 MSc Thesis: Risk-Aware Feasibility Appraisal of Solar PV + Battery Storage
 
